@@ -5,13 +5,9 @@ Este é o primeiro desafio data scientist da Alura, a documentação do projeto 
 
 [Neste Tello](https://trello.com/b/KDpEbaPv/challenge-data-science) estão listadas as atividades do proejto.
 
-## Principais atividades
+## Semana 1
 * Carregar informações
 * Interpretar os dados e se familiarizar
 * Tratar os dados
 * Traduzir Colunas
 * Criar coluna Calculada
-
-
-#alurachallengedatascience1
-#alura

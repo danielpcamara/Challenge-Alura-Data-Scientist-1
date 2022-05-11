@@ -11,3 +11,7 @@ Este é o primeiro desafio data scientist da Alura, a documentação do projeto 
 * Tratar os dados
 * Traduzir Colunas
 * Criar coluna Calculada
+
+
+#alurachallengedatascience1
+#alura
